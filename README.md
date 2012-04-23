@@ -1,4 +1,4 @@
 kkelley.github.com
 ==================
 
-GitHub Pages repo for https://kkelley.github.com/
+GitHub Pages repo for http://kkelley.github.com/
